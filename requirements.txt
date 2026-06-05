@@ -1,0 +1,9 @@
+pypdf>=4.0.0
+PyMuPDF>=1.23.0
+pdfplumber>=0.10.0
+pywin32>=305.0.0
+winrt-Windows.Media.Ocr
+winrt-Windows.Graphics.Imaging
+winrt-Windows.Storage.Streams
+winrt-Windows.Globalization
+pillow>=9.0.0
